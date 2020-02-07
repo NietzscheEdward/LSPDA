@@ -12,7 +12,7 @@ public class URLModel {
         return  new URLModel();
     }
 
-    public static String IPAdress="222.72.136.173";//"wmstest.beukay.com";
+    public static String IPAdress="";//"wmstest.beukay.com",222.72.136.173;
     public static int Port=8018;//9000;
     public static String  LastContent="AndroidService.svc/";
     public static String PrintIP="10.2.32.192";
